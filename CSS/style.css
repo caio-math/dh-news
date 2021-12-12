@@ -1,6 +1,6 @@
 body{
     font-family: 'Rajdhani', sans-serif;
-    width: 80%;
+    width: 100%;
     max-width: 800px;
     margin: 0 auto;
 }#title{
@@ -11,6 +11,19 @@ body{
 header p{
     margin-top: 10px;
     font-weight: bold; 
+
 } section img{
     width: 100%;
+
+} main {
+    border-bottom: solid 1px #CCC;
+    padding-bottom: 40px;
+
+} div.container{
+    width: fit-content;
+    margin: 15px auto;
+} .container a{
+    text-decoration: none;
+} .container a + a {
+    margin left 10px;
 }
