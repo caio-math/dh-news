@@ -28,5 +28,5 @@ header p{
     text-decoration: none;
 
 } .container a + a {
-    margin left 10px;
+    margin-left: 10px;
 }
